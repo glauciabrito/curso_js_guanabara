@@ -1,0 +1,24 @@
+body {
+    background: rgb(70, 142, 236); /*cor de fundo global*/
+    font: normal 15pt Arial; /*fonte global do documento*/
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white; /*cor de fundo da div*/
+    border-radius: 10px; /*raio da borda - para ficar arredondada*/
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 363); /*sombra na caixa*/
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic; /*deixa a fonte em itálico*/
+}
